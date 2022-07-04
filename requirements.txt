@@ -29,7 +29,7 @@ requests==2.24.0
 scikit-learn==1.0.2
 scipy
 seaborn
-sip==4.19.13
+sip
 six
 sklearn==0.0
 threadpoolctl==2.1.0
