@@ -1,7 +1,7 @@
-# FemaleDiabeticsPredication 
+# FemaleDiabeticsPredicttion
 
-#### I have created app which is responsiable for predicting weather a women having diabetics or not..?
-#### This dataset was taken from one of kaggle competition. and i have deployed this by using heroku.
+#### I have created aan web app which is responsiable for predicting weather a women having diabetics or not..?
+#### This dataset was taken from one of the kaggle competition. and i have deployed this by using heroku.
 
 Please find the link for kaggle dataset:
 https://www.kaggle.com/datasets/mathchi/diabetes-data-set
