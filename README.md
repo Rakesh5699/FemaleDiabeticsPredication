@@ -51,5 +51,4 @@ https://www.kaggle.com/datasets/mathchi/diabetes-data-set
 ## ⌛A short Glimpse of application and prediction:
 
 https://user-images.githubusercontent.com/75267160/177111075-15ce4163-2341-49dc-943c-04026ee8863a.mp4
-<br>
 
